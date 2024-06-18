@@ -19,14 +19,33 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- App Name -->
+    <string name="doze_settings_app_name">Pengaturan doze</string>
     <!-- Ambient Display -->
+    <string name="ambient_display_enable">Gunakan tampilan ambien</string>
+    <string name="ambient_display_title">Tampilan Ambien</string>
+    <string name="ambient_display_summary">Gestur tambahan untuk membangunkan layar</string>
     <!-- Always on -->
+    <string name="ambient_display_always_on_title">Selalu aktif</string>
+    <string name="ambient_display_always_on_summary">Tampilkan waktu, ikon notifikasi dan info lainnya. Penggunaan baterai akan meningkat.</string>
     <!-- Pickup sensor -->
+    <string name="pickup_sensor_title">Sensor pengambilan</string>
     <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Sensor jarak</string>
     <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Lambaian tangan</string>
+    <string name="hand_wave_gesture_summary">Kedipkan notifikasi saat melambaikan tangan</string>
     <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Ambil</string>
+    <string name="pick_up_gesture_summary">Kedipkan notifikasi saat diambil</string>
     <!-- Pick-up to wake gesture-->
+    <string name="wake_gesture_title">Bangun</string>
+    <string name="wake_gesture_summary">Bangunkan perangkat alih-alih menampilkan notifikasi</string>
     <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Saku</string>
+    <string name="pocket_gesture_summary">Kedipkan notifikasi saat keluar dari saku</string>
     <!-- Dialog texts -->
+    <string name="dialog_ok">Oke</string>
     <!-- Help texts -->
+    <string name="doze_settings_help_title">Bantuan</string>
+    <string name="doze_settings_help_text">Fitur-fitur ini menggunakan aktivitas sensor untuk meluncurkan notifikasi saat tertidur. Sensor yang dipilih hanya diaktifkan bila perangkat menerima notifikasi, ini membantu mengurangi penggunaan baterai. Ada juga pilihan untuk mengaktifkan sensor yang dipilih secepat layar mati, ini akan menyebabkan penggunaan baterai yang lebih tinggi.</string>
 </resources>
